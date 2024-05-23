@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import establo.*;
 import invernadero.*;
 import metodos.Metodos;
-import zapateria.Casual;
+import zapateria.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
